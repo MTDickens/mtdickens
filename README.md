@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently sophormore studying in Zhejiang University. 
-- 🌱 I’m currently interested in online learning problems (but of course, just a beginner).
 
 ![snake](https://raw.githubusercontent.com/mtdickens/mtdickens/output/github-contribution-grid-snake.svg)

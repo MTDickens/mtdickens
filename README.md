@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently second year student studying in Zhejiang University. 
+- 🔭 I’m currently second year undergrad studying in Zhejiang University. 
 
 ![snake](https://raw.githubusercontent.com/mtdickens/mtdickens/output/github-contribution-grid-snake.svg)

@@ -15,6 +15,4 @@
 - ⚡ 有趣的事实：...
 -->
 
-- 🔭 我目前是浙江大学三年级的本科生
-
 ![snake](https://raw.githubusercontent.com/mtdickens/mtdickens/output/github-contribution-grid-snake.svg)
